@@ -2,6 +2,9 @@
 
 ## Overview
 The **Retail Sales Dashboard** is an interactive business intelligence solution built on **Power BI** to analyze and visualize retail performance across multiple dimensions. It provides actionable insights into sales, profitability, product performance, regional distribution, and customer segments.
+---
+## Screenshot
+![Retail Sales Dashboard](https://github.com/Amit-DataDoc23/Retail-Sales-dashboard/blob/7a9677c543317f744d33a3616ec750a67b7a13e4/Dashboard.png)
 
 ## Features
 - **Key Performance Indicators (2019–2024):**
@@ -30,11 +33,6 @@ The **Retail Sales Dashboard** is an interactive business intelligence solution 
 - Power BI for dashboard creation and interactivity
 - Data Modeling for relationships and measures
 - DAX for calculated KPIs and metrics
----
-
-## Screenshot
-![Retail Sales Dashboard](attachments/XPon3M6heFDWEGYKsmfRt.jpeg)
-
 ---
 
 ### Author
